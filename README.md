@@ -76,7 +76,7 @@ A machine-learning based system that recommends travel destinations based on use
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=GKanishka22&show_icons=true&theme=tokyonight&hide_border=true" />
 
@@ -84,7 +84,7 @@ A machine-learning based system that recommends travel destinations based on use
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GKanishka22&theme=tokyonight&hide_border=true" />
 
-</div>
+</div> -->
 
 ---
 
