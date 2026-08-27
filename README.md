@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Kanishka 👋
+# Hi Coders !!  I'm Kanishka👋
 
 ### Software Developer | Problem Solver | Tech Enthusiast
 
@@ -18,11 +18,11 @@
 
 ## 🌸 About Me
 
-* 🎓 B.Tech Information Technology student at NIT Srinagar
-* 💻 Passionate about Software Development and Problem Solving
-* 🧩 Currently strengthening my DSA and problem-solving skills
-* ☁️ Exploring Backend Development, Cloud and Cybersecurity
-* 🚀 Building projects that solve real-world problems
+*  B.Tech Information Technology student at NIT Srinagar
+*  Passionate about Software Development and Problem Solving
+*  Currently strengthening my DSA and problem-solving skills
+*  Exploring Backend Development, Cloud and Cybersecurity
+*  Building projects that solve real-world problems
 
 ---
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🎓 Campus Placement & Career Management Platform
 
