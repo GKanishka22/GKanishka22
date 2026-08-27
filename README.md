@@ -100,7 +100,7 @@ A machine-learning based system that recommends travel destinations based on use
   <img src="https://img.shields.io/badge/GitHub-GKanishka22-black?style=for-the-badge&logo=github" />
 </a>
 
-<a href="./Kanishka_Gupta_Resume.pdf">
+<a href="./resume_kanishka.pdf">
   <img src="https://img.shields.io/badge/📄%20Resume-View%20Resume-ff69b4?style=for-the-badge" />
 </a>
 
